@@ -1,0 +1,8 @@
+{
+    "auto_install": [
+        {
+            "image": "/Win11.iso",
+            "template": "/autounattend.xml"
+        }
+    ]
+}
